@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202853562176",
+    "firebase_url": "https://amstti1panchana-default-rtdb.firebaseio.com",
+    "project_id": "amstti1panchana",
+    "storage_bucket": "amstti1panchana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202853562176:android:e48d4ee30e88d302926ca5",
+        "android_client_info": {
+          "package_name": "com.amst.amst_ti1_panchana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202853562176-dd43o3j2pcqto0efrjvr7ts3lclalurt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.amst_ti1_panchana",
+            "certificate_hash": "dc3ed30f0092a534cc38b9e2ca1bb74363973156"
+          }
+        },
+        {
+          "client_id": "202853562176-sr6cujq3h1iaq6oa8ppkupqjnf8m22ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_GzQWBNSQAWMtj7HsXUNLefo4r1cYoHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202853562176-sr6cujq3h1iaq6oa8ppkupqjnf8m22ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
